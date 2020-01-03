@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8911d402-c0e7-4f82-ad53-26af4f21cb24" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UbIpzxhTN6yDT6s4YdwQ8Nn4hb" />
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.47181627" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="testcontainers.braga.spock.examples.selenium" />
+      <recent name="testcontainers.braga.junit5.examples.selenium" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Rafael_Braga\eclipse-workspace\Git Projects\testcontainersbraga\src\test\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.SeleniumJUnit4Test">
+    <configuration name="DockerComposeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testcontainersbraga" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testcontainers.braga.examples.selenium.junit4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testcontainers.braga.examples.selenium.junit4" />
+      <option name="MAIN_CLASS_NAME" value="testcontainers.braga.examples.selenium.junit4.DockerComposeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenericContainerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testcontainersbraga" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testcontainers.braga.examples.selenium.junit4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testcontainers.braga.examples.selenium.junit4" />
+      <option name="MAIN_CLASS_NAME" value="testcontainers.braga.examples.selenium.junit4.GenericContainerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenericContainerTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testcontainersbraga" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testcontainers.braga.examples.selenium.junit4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testcontainers.braga.examples.selenium.junit4" />
+      <option name="MAIN_CLASS_NAME" value="testcontainers.braga.examples.selenium.junit4.GenericContainerTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeleniumJUnit4Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testcontainersbraga" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testcontainers.braga.examples.selenium.junit4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testcontainers.braga.examples.selenium.junit4" />
+      <option name="MAIN_CLASS_NAME" value="testcontainers.braga.examples.selenium.junit4.SeleniumJUnit4Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeleniumSpock (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testcontainersbraga" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testcontainers.braga.examples.selenium.spock.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testcontainers.braga.examples.selenium.spock" />
+      <option name="MAIN_CLASS_NAME" value="testcontainers.braga.examples.selenium.spock.SeleniumSpock" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SeleniumJUnit4Test" />
+        <item itemvalue="JUnit.SeleniumSpock (1)" />
+        <item itemvalue="JUnit.GenericContainerTest.test" />
+        <item itemvalue="JUnit.GenericContainerTest" />
+        <item itemvalue="JUnit.DockerComposeTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8911d402-c0e7-4f82-ad53-26af4f21cb24" name="Default Changelist" comment="" />
+      <created>1575619054610</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575619054610</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand>
+      <path>
+        <item name="testcontainersbraga" type="b2602c69:ProjectViewProjectNode" />
+        <item name="testcontainersbraga" type="462c0819:PsiDirectoryNode" />
+      </path>
+    </expand>
+    <select />
+  </component>
+</project>
